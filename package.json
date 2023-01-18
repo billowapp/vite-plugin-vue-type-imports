@@ -1,10 +1,10 @@
 {
-  "name": "vite-plugin-vue-type-imports",
+  "name": "@billow/vite-plugin-vue-type-imports",
   "version": "0.2.6",
   "author": "Jacob Clevenger <jacobrclevenger@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/wheatjs/vite-plugin-vue-type-imports",
-  "bugs": "https://github.com/wheatjs/vite-plugin-vue-type-imports/issues",
+  "homepage": "https://github.com/billowapp/vite-plugin-vue-type-imports",
+  "bugs": "https://github.com/billowapp/vite-plugin-vue-type-imports/issues",
   "keywords": [],
   "exports": {
     ".": {
